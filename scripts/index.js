@@ -1,6 +1,6 @@
 /**
 * ------------------------------------------------------------------------
-* ${component.transforms.name.camelCase}
+* ${component.transforms.name.camelCase} - Javascript Definition
 * ------------------------------------------------------------------------
 */
 
