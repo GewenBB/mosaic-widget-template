@@ -1,5 +1,5 @@
 import ${component.transforms.name.camelCase} from '../../index';
-describe('${component.transforms.name.camelCase}', () => {
+describe('${component.name}', () => {
    it('should be a function', () => {
        expect(${component.transforms.name.camelCase}).toBeFunction();
    });
